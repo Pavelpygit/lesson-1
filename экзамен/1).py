@@ -1,0 +1,6 @@
+price_1 = int(input('min price'))
+price_2 = int(input('max price'))
+day_1 = int(input('day'))
+print(f'минимальная стоимость  {price_1 * day_1}')
+print(f'максимальная стомость  {price_2 * day_1}')
+print(f'Ваша экономия   {price_2 * day_1 - price_1 * day_1}')

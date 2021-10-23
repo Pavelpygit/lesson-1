@@ -1,0 +1,4 @@
+Ivanov Ivan 8
+Smirnov Sergey 3
+Petrova Mariya 6
+Sidorov Alexander 4
